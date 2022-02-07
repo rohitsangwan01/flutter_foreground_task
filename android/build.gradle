@@ -2,7 +2,7 @@ group 'com.pravera.flutter_foreground_task'
 version '1.0-SNAPSHOT'
 
 buildscript {
-    ext.kotlin_version = '1.4.32'
+    ext.kotlin_version = '1.5.31'
     repositories {
         google()
         jcenter()
